@@ -1,0 +1,2 @@
+#All lines beginning with the function to calculate indefinite integrals, Integrate[]
+Integrate[Sin[x]Cos[x],x]
