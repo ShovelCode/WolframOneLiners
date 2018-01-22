@@ -1,0 +1,2 @@
+#Sums, infinite series
+Sum[n^(-2), {n, 1, Infinity}]
