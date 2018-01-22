@@ -1,0 +1,2 @@
+#Determinants of square matrices
+Det[{{3, 4}, {2, 1}}]
