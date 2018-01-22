@@ -1,0 +1,2 @@
+#MatrixPower[], matrices that go through matrix multiplication by themselves
+MatrixPower[{{a, b}, {c, d}}, 2]
