@@ -1,0 +1,2 @@
+#Numerical approximation function N[expr,decimal places]
+N[Pi^2/6, 79]
