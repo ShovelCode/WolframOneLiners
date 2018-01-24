@@ -1,1 +1,2 @@
 Plot[Sin[x]/x]
+Plot[y==x]
