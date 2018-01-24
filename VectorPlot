@@ -1,0 +1,1 @@
+VectorPlot[{3 x, 3 y}, {x, -6.75, 6.75}, {y, -6.75, 6.75}, FrameLabel -> {x, y}, "ImageSize" -> 250.]
