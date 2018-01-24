@@ -1,2 +1,4 @@
 Plot[Sin[x]/x]
+Plot[y==x]
 Plot[y^2==t]
+
