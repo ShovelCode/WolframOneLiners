@@ -1,0 +1,2 @@
+Limit[x, {x -> Infinity}]
+Limit[1/x, {x -> Infinity}]
