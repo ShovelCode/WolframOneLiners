@@ -1,3 +1,4 @@
 #All lines beginning with the function to calculate indefinite integrals, Integrate[]
 Integrate[Sin[x]Cos[x],x]
 Integrate[-t + y^2, y]
+Integrate[{2 I + 3, 3 I + 2} x + y I, x]
