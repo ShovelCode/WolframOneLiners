@@ -1,0 +1,1 @@
+NIntegrate[Sin[Cos[x]], {x, 0, 1}]
