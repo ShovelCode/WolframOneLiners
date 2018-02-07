@@ -10,3 +10,4 @@ e^z
 {Cos[x], x Sin[x]}
 (*Just a comment*)
 ((a/b)/c)/d
+(a/b)/(c/d)/(e/f)
