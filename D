@@ -2,3 +2,4 @@
 D[Sin[x]/x,x]
 D[1/x,x]
 D[n^(-2),n]
+D[abcd,a]
