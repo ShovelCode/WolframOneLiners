@@ -1,1 +1,2 @@
 PolarPlot[x]
+PolarPlot[x^2+y^2]
