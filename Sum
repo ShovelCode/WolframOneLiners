@@ -1,2 +1,5 @@
 #Sums, infinite series
 Sum[n^(-2), {n, 1, Infinity}]
+Sum[1/k!, {k, 0, Infinity}] 
+Sum[(k - 1)^2/k!, {k, 0, Infinity}]
+Sum[(2 k + 1)/(2 k)!, {k, 0, Infinity}]
