@@ -1,1 +1,3 @@
 Cross[{1, 2, 3}, {3, 4, 5}]
+Cross[(a,b,c),(d,e,f)]
+Cross[{a,b,c},{d,e,f}]
