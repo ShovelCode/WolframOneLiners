@@ -1,1 +1,2 @@
 NestList[f, x, 4]
+NestList[(1 + #)^2 &, x, 3]
