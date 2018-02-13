@@ -3,3 +3,4 @@ Integrate[Sin[x]Cos[x],x]
 Integrate[-t + y^2, y]
 Integrate[{2 I + 3, 3 I + 2} x + y I, x]
 Integrate[Sqrt[𐐧]](*An issue*)
+Integrate[1/♧]
