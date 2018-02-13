@@ -1,0 +1,3 @@
+(*Alternatively there is MatrixPower with -1 as the exponent*)
+Inverse[{{2, 3}, {4, 5}}]
+Inverse[{{a, b}, {c, d}}]
