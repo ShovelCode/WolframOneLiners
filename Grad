@@ -1,1 +1,2 @@
 Grad[Sin[x^2 y], {x, y}]
+Grad[x^2, {x}]
