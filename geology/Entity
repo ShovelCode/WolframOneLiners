@@ -1,2 +1,3 @@
 Entity["Mineral", "Chromite"]
 Entity["Mineral", "Malachite"]
+Entity["Mineral", "Azurite"]
