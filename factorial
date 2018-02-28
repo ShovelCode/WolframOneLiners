@@ -1,0 +1,1 @@
+(*Defining factorial, technically a subprogram, not a oneliner*) factorial[1]=1; factorial[n_Integer]:=n*factorial[n-1];factorial[50];
