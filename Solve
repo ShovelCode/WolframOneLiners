@@ -1,2 +1,3 @@
 #The almighty solve function.
 Solve[x^5+x^4+x^3+x^2+x == 1] #Quintic, numerical results
+Solve[2x = x^2,x]
