@@ -1,1 +1,2 @@
 DSolve[f[x]+f'[x]+y == 3x]
+DSolve[f'[x] = f[y]]
