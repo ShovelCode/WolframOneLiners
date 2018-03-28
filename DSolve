@@ -1,2 +1,3 @@
 DSolve[f[x]+f'[x]+y == 3x]
 DSolve[f'[x] = f[y]]
+DSolve[t y'[t] + 2 y[t] == Sin[t]]
