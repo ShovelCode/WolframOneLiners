@@ -1,6 +1,7 @@
-#Computations of derivatives here
+(*Computations of derivatives here*)
 D[Sin[x]/x,x]
 D[1/x,x]
 D[n^(-2),n]
 D[abcd,a]
 D[abc,a]
+D[x^2*y*2]
