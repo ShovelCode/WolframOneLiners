@@ -1,0 +1,1 @@
+Reduce[a + b == 0, {a, b}, Reals]
